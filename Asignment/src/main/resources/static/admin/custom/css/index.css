@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.numberPage {
+	background-color: #1a2035;
+	color: white;
+	padding: 2px;
+	min-width: 2.5rem;
+	text-align: center;
+	height: 1.875rem;
+	font-size: 1rem;
+	margin-left: 1px;
+	margin-right: 5px;
+}
+
+.numberPage:hover {
+	background-color: #1a2035;
+}
+
+.activeCustom {
+	background-color: white;
+	color: #1a2035;
+}
+
